@@ -59,4 +59,4 @@
 
 [自动载入]: http://php.net/autoload
 [PSR-0]: http://github.com/linhongyou/code-standard/blob/master/PSR-0-cn.md
-[相关实例]: http://github.com/linhongyou/code-standard/blob/master/accepted/PSR-4-autoloader-examples.md
+[相关实例]: http://github.com/linhongyou/code-standard/blob/master/PSR-4-autoloader-examples.md
