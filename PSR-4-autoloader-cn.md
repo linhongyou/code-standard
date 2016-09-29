@@ -58,5 +58,5 @@
 注意：实例并**不**属于规范的一部分，且随时**会**有所变动。
 
 [自动载入]: http://php.net/autoload
-[PSR-0]: http://gitlab.1jiajie.com/linhongyou/code-standard/blob/master/PSR-0-cn.md
-[相关实例]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader-examples.md
+[PSR-0]: http://github.com/linhongyou/code-standard/blob/master/PSR-0-cn.md
+[相关实例]: http://github.com/linhongyou/code-standard/blob/master/accepted/PSR-4-autoloader-examples.md

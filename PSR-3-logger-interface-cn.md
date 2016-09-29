@@ -115,7 +115,7 @@ namespace Psr\Log;
  *
  * 上下文数组可以携带任意的数据，唯一的限制是，当它携带的是一个 exception 对象时，它的键名 必须 是 "exception"。
  *
- * 详情可参阅： http://gitlab.1jiajie.com/linhongyou/code-standard/blob/master/PSR-3-logger-interface-cn.md
+ * 详情可参阅： http://github.com/linhongyou/code-standard/blob/master/PSR-3-logger-interface-cn.md
  */
 interface LoggerInterface
 {

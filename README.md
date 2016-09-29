@@ -7,12 +7,12 @@ PHP编码规范（中文版）导读
 
 目前官方已制定的规范包括以下六份文件：
 
-  - [PSR-0](http://gitlab.1jiajie.com/linhongyou/code-standard/blob/master/PSR-0-cn.md) (已弃用)
-  - [PSR-1](http://gitlab.1jiajie.com/linhongyou/code-standard/blob/master/PSR-1-basic-coding-standard-cn.md)
-  - [PSR-2](http://gitlab.1jiajie.com/linhongyou/code-standard/blob/master/PSR-2-coding-style-guide-cn.md)
-  - [PSR-2补充](http://gitlab.1jiajie.com/linhongyou/code-standard/blob/master/PSR-2-coding-style-guide-meta-cn.md)
-  - [PSR-3](http://gitlab.1jiajie.com/linhongyou/code-standard/blob/master/PSR-3-logger-interface-cn.md)
-  - [PSR-4](http://gitlab.1jiajie.com/linhongyou/code-standard/blob/master/PSR-4-autoloader-cn.md)
+  - [PSR-0](http://github.com/linhongyou/code-standard/blob/master/PSR-0-cn.md) (已弃用)
+  - [PSR-1](http://github.com/linhongyou/code-standard/blob/master/PSR-1-basic-coding-standard-cn.md)
+  - [PSR-2](http://github.com/linhongyou/code-standard/blob/master/PSR-2-coding-style-guide-cn.md)
+  - [PSR-2补充](http://github.com/linhongyou/code-standard/blob/master/PSR-2-coding-style-guide-meta-cn.md)
+  - [PSR-3](http://github.com/linhongyou/code-standard/blob/master/PSR-3-logger-interface-cn.md)
+  - [PSR-4](http://github.com/linhongyou/code-standard/blob/master/PSR-4-autoloader-cn.md)
 
 
 
